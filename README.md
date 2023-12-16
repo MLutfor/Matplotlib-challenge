@@ -1,7 +1,13 @@
 # Matplotlib-challenge
 ![Alt text](image-18.png)
+
+# Initialization of code
+
 ![](image-1.png)
 ![Alt text](image-2.png)
+
+# Isolation of data
+
 ![Alt text](image-3.png)
 ![Alt text](image-4.png)
 ![Alt text](image-5.png)
