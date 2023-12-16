@@ -12,7 +12,7 @@
 ![Alt text](image-4.png)
 ![Alt text](image-5.png)
 
-Summary Statistics
+# Summary Statistics
 ![Alt text](image-6.png)
 ![Alt text](image-7.png)
 
