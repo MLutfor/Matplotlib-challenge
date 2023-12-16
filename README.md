@@ -1,5 +1,7 @@
 # Matplotlib-challenge
 ![Alt text](image.png)
+
+# Initialization
 ![](image-1.png)
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
